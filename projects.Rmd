@@ -1,0 +1,11 @@
+---
+title: "Projects"
+---
+
+Here is a sampling of my data projects, both from my academic coursework and personal side projects. 
+
+## [Principal Components Analysis in R](https://katdevlin.github.io/pcaCars/)
+
+- An RMarkdown project using PCA to analyze the built-in R dataset, mtcars.
+- Includes a github repo for access to all the code.
+

@@ -2,4 +2,18 @@
 title: "About Me"
 ---
 
-Why I am employable. 
+Why I am employable: 
+
+- __Name:__ Kat Devlin
+
+- __Education:__ MA, Yale University, Global Affairs (2017); BA, Villanova University, Political Science (2011)
+
+- __Objective:__ Find employment as a data analyst with either an established international organization or a growing company
+
+- __Past Experience:__ Teaching Fellow - Applied Quantitative Analysis, Yale University; Research Analyst, Pew Research Center; Fulbright Grantee (Malaysia), U.S. Fulbright Program; Consulting Intern, Luntz Global LLC 
+
+At Yale, I concentrated in quanatitative research methods/applied statistics. This included working in R, Stata, Excel and some Python. I also studied Chinese and looked at maps (below, center).
+
+A native of South Jersey, I enjoy books, running, cooking and the perpetual heartache of being a Philadelphia sports fan.
+
+![](start-your-journey.jpg)
