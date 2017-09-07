@@ -2,10 +2,14 @@
 title: "Projects"
 ---
 
-Here is a sampling of my data projects, both from my academic coursework and personal side projects. 
+Here is a sampling of my data projects, both from my academic coursework and personal side projects. All project repos can be found on my GitHub page, https://github.com/KatDevlin.
 
 ## [Principal Components Analysis in R](https://katdevlin.github.io/PCA_cars/)
 
-- An RMarkdown project using PCA to analyze the built-in R dataset, mtcars.
-- Includes a github repo for access to all the code.
+- An RMarkdown project using PCA to analyze the built-in R dataset, mtcars
+
+## [Cluster Analysis in R](https://katdevlin.github.io/ClusterAnalysis_colleges/)
+
+- An RMarkdown project for my graduate multivariate statistics course
+- Methods include cluster analysis with various distance measures and k-means
 
