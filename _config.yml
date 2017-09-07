@@ -1,1 +1,11 @@
 theme: jekyll-theme-minimal
+
+name: "KatDevlin's-website"
+output_dir: "."
+navbar:
+  title: "Kat's Website"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About Me"
+      href: about.html
