@@ -12,8 +12,8 @@ Why I am employable:
 
 - __Past Experience:__ Teaching Fellow - Applied Quantitative Analysis, Yale University; Research Analyst, Pew Research Center; Fulbright Grantee (Malaysia), U.S. Fulbright Program; Consulting Intern, Luntz Global LLC 
 
-At Yale, I concentrated in quanatitative research methods/applied statistics. This included working in R, Stata, Excel and some Python. I also studied Chinese and looked at maps (below, center).
-
 A native of South Jersey, I enjoy books, running, cooking and the perpetual heartache of being a Philadelphia sports fan.
+
+At Yale, I concentrated in quanatitative research methods/applied statistics. This included working in R, Stata, Excel and some Python. I also studied Chinese and looked at maps (below, center).
 
 ![](start-your-journey.jpg)

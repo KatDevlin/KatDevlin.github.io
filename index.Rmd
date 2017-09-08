@@ -2,4 +2,19 @@
 title: "Kat's Website"
 ---
 
-Hello, World!
+Hello, World! And welcome to my website. Most of the excitement is under the 'Projects' tab, but here are some other helpful links:
+
+- __Email:__ kathleen.devlin@yale.edu
+
+- __Github:__ https://github.com/KatDevlin
+
+- __Linkedin:__ https://www.linkedin.com/in/kathleendevlin/
+
+- __China-related writing sample:__ http://www.eastwestcenter.org/publications/us-china-cooperation-wildlife-smuggling-opportunity
+
+- __Popular blog I wrote while at Pew Research Center:__ http://www.pewresearch.org/fact-tank/2015/07/13/learning-a-foreign-language-a-must-in-europe-not-so-in-america/ 
+
+
+![](thumb_IMG_0623_1024.jpg)
+
+
