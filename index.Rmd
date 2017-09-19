@@ -6,6 +6,8 @@ Hello, World! And welcome to my website. Most of the excitement is under the 'Pr
 
 - __Email:__ kathleen.devlin@yale.edu
 
+- __CV:__ https://katdevlin.github.io/cv/
+
 - __Github:__ https://github.com/KatDevlin
 
 - __Linkedin:__ https://www.linkedin.com/in/kathleendevlin/
