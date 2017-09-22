@@ -10,10 +10,16 @@ Here is a sampling of my data projects, both from my academic coursework and per
 
 ## [Cluster Analysis in R](https://katdevlin.github.io/ClusterAnalysis_colleges/)
 
-- An RMarkdown project for my graduate multivariate statistics course
+- An RMarkdown project for my graduate multivariate statistics course, examining various metrics of American universities
 - Methods include cluster analysis with various distance measures and k-means
 
 ## [Prediction Modeling in R](https://katdevlin.github.io/predict_2000election/)
 
 - An RMarkdown project for a graduate data analysis/stats course
 - Data transformations, linear models and some predictions looking at county voting patterns in Florida for the 2000 presidential election
+
+## [Web Scrape in R](https://katdevlin.github.io/housing_scrape/)
+
+- An RMarkdown homework assignment looking at a New Haven property database that I've rejiggered with updated data and code
+- In addition to the scrape, I use a for loop and gsub/grep to create a clean .csv file that can be used for further analysis 
+- The original database, in all its clunky glory, can be found at: http://gis.vgsi.com/newhavenct/
