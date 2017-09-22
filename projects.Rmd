@@ -13,3 +13,7 @@ Here is a sampling of my data projects, both from my academic coursework and per
 - An RMarkdown project for my graduate multivariate statistics course
 - Methods include cluster analysis with various distance measures and k-means
 
+## [Prediction Modeling in R](https://katdevlin.github.io/predict_2000election/)
+
+- An RMarkdown project for a graduate data analysis/stats course
+- Data transformations, linear models and some predictions looking at county voting patterns in Florida for the 2000 presidential election
