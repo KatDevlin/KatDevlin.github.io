@@ -2,7 +2,7 @@
 title: "Projects"
 ---
 
-Here is a sampling of my data projects, both from my academic coursework and personal side projects. All project repos can be found on my GitHub page, https://github.com/KatDevlin.
+Here is a sampling of my data projects, both from my academic coursework and personal side projects. All project repos can be found on my GitHub page, https://github.com/KatDevlin. Note: some of the projects contain Chinese metadata. That's because my computer settings are in Chinese. Shouldn't affect anything else.
 
 ## [Principal Components Analysis in R](https://katdevlin.github.io/PCA_cars/)
 
@@ -23,3 +23,8 @@ Here is a sampling of my data projects, both from my academic coursework and per
 - An RMarkdown homework assignment looking at a New Haven property database that I've rejiggered with updated data and code
 - In addition to the scrape, I use a for loop and gsub/grep to create a clean .csv file that can be used for further analysis 
 - The original database, in all its clunky glory, can be found at: http://gis.vgsi.com/newhavenct/
+
+## [Data Analysis in R](https://katdevlin.github.io/OlympicDives/)
+
+- An RMarkdown compilation of homework assignments looking at scores from the 2000 Olympics' diving competition
+- Paired data visualizations with actual statistical analysis to backup hunches from the graphs
