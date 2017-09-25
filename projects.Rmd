@@ -4,19 +4,15 @@ title: "Projects"
 
 Here is a sampling of my data projects, both from my academic coursework and personal side projects. All project repos can be found on my GitHub page, https://github.com/KatDevlin. Note: some of the projects contain Chinese metadata. That's because my computer settings are in Chinese. Shouldn't affect anything else.
 
-## [Principal Components Analysis in R](https://katdevlin.github.io/PCA_cars/)
+## [Prediction Modeling in R](https://katdevlin.github.io/predict_2000election/)
 
-- An RMarkdown project using PCA to analyze the built-in R dataset, mtcars
+- An RMarkdown project for a graduate data analysis/stats course
+- Data transformations, linear models and some predictions looking at county voting patterns in Florida for the 2000 presidential election
 
 ## [Cluster Analysis in R](https://katdevlin.github.io/ClusterAnalysis_colleges/)
 
 - An RMarkdown project for my graduate multivariate statistics course, examining various metrics of American universities
 - Methods include cluster analysis with various distance measures and k-means
-
-## [Prediction Modeling in R](https://katdevlin.github.io/predict_2000election/)
-
-- An RMarkdown project for a graduate data analysis/stats course
-- Data transformations, linear models and some predictions looking at county voting patterns in Florida for the 2000 presidential election
 
 ## [Web Scrape in R](https://katdevlin.github.io/housing_scrape/)
 
@@ -24,7 +20,17 @@ Here is a sampling of my data projects, both from my academic coursework and per
 - In addition to the scrape, I use a for loop and gsub/grep to create a clean .csv file that can be used for further analysis 
 - The original database, in all its clunky glory, can be found at: http://gis.vgsi.com/newhavenct/
 
+## [Statistical Analysis in R](https://katdevlin.github.io/housing_analysis/)
+
+- Another RMarkdown homework assignment, this time performing statistical analyses on the New Haven housing data
+- Not quite the same dataset as I've scraped above; instead more focus on modeling and working with different types of variables to predict housing assessment values
+
 ## [Data Analysis in R](https://katdevlin.github.io/OlympicDives/)
 
 - An RMarkdown compilation of homework assignments looking at scores from the 2000 Olympics' diving competition
 - Paired data visualizations with actual statistical analysis to backup hunches from the graphs
+
+## [Principal Components Analysis in R](https://katdevlin.github.io/PCA_cars/)
+
+- An RMarkdown project using PCA to analyze the built-in R dataset, mtcars
+- Some nice visualizations, including  a scree plot, dendrogram and a ggplot2 graph of the first two principal components
