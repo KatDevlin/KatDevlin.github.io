@@ -30,6 +30,11 @@ Here is a sampling of my data projects, both from my academic coursework and per
 - An RMarkdown compilation of homework assignments looking at scores from the 2000 Olympics' diving competition
 - Paired data visualizations with actual statistical analysis to backup hunches from the graphs
 
+## [K Nearest Neighbors in R](https://katdevlin.github.io/k_nearest_rivers/)
+
+- An RMarkdown project using linear models and k-nearest neighbors to impute missing data on river CO2 emissions data
+- This code also includes an example of anova, predict and a loop or two.
+
 ## [Principal Components Analysis in R](https://katdevlin.github.io/PCA_cars/)
 
 - An RMarkdown project using PCA to analyze the built-in R dataset, mtcars
