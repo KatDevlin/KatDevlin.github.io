@@ -4,6 +4,11 @@ title: "Projects"
 
 Here is a sampling of my data projects, both from my academic coursework and personal side projects. All project repos can be found on my GitHub page, https://github.com/KatDevlin. Note: some of the projects contain Chinese metadata. That's because my computer settings are in Chinese. Shouldn't affect anything else.
 
+## [Writing a Function in R](https://katdevlin.github.io/InverseMatrixFunction/)
+
+- An RMardown project from Coursera's [R Programming](https://www.coursera.org/learn/r-programming) course to calculate inverse matrices
+- Function takes a user-provided square matrix and will either calculate the inverse or retrieve the already-calculated inverse from the cache
+
 ## [Prediction Modeling in R](https://katdevlin.github.io/predict_2000election/)
 
 - An RMarkdown project for a graduate data analysis/stats course
