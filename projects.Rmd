@@ -4,6 +4,11 @@ title: "Projects"
 
 Here is a sampling of my data projects, both from my academic coursework and personal side projects. All project repos can be found on my GitHub page, https://github.com/KatDevlin. Note: some of the projects contain Chinese metadata. That's because my computer settings are in Chinese. Shouldn't affect anything else.
 
+## [Predicting Survival on the Titanic with R](https://katdevlin.github.io/Titanic_predict/)
+
+- A project I submitted to [Kaggle](https://www.kaggle.com/c/titanic) using binary classification to predict survival outcomes for Titanic passengers.
+- With a combination of logistic regression and k-nearest neighbors, I was able to predict survival rates with 78% accuracy.
+
 ## [Data Cleaning and Merging in R](https://katdevlin.github.io/Multivar_FinalProject/)
 
 - This is the first half of my semester-long Multivariate Statistics course final project, focused on obtaining data from several sources, cleaning the data and merging everything into a user-friendly dataset for further analysis
