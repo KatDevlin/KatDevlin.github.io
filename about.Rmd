@@ -6,13 +6,13 @@ Why I am employable:
 
 - __Name:__ Kat Devlin
 
-- __Education:__ MA, Yale University, Global Affairs (2017); BA, Villanova University, Political Science (2011)
+- __Education:__ MA, Yale University, Global Affairs -- Concentration in Quantitative Research Methods (2017); BA, Villanova University, Political Science -- Minor in Chinese Studies (2011)
 
-- __Objective:__ Find employment as a data analyst with either an established international organization or a growing company
+- __Objective:__ Leverage quantitative skillset and knowledge of international relations to carry out insightful computational research products, from conception to execution to analysis for a wide array of technical and non-technical audiences
 
-- __Past Experience:__ Teaching Fellow - Applied Quantitative Analysis, Yale University; Research Analyst, Pew Research Center; Fulbright Grantee (Malaysia), U.S. Fulbright Program; Consulting Intern, Luntz Global LLC 
+- __Past Experience:__ Teaching Fellow - Applied Quantitative Analysis, Yale University; Consultant, Talent, Inc.; Research Analyst, Pew Research Center; Fulbright Grantee (Malaysia), U.S. Fulbright Program; Consulting Intern, Luntz Global LLC 
 
-A native of South Jersey, I enjoy books, running, cooking and the perpetual heartache of being a Philadelphia sports fan.
+A native of South Jersey, I enjoy books, cooking, Curb-style humor and the perpetual heartache of being a Philadelphia sports fan.
 
 At Yale, I concentrated in quanatitative research methods/applied statistics. This included working in R, Stata, Excel and some Python. I also studied Chinese and looked at maps (below, center).
 
