@@ -8,7 +8,7 @@ Hello, World! And welcome to my website. Most of the excitement is under the 'Pr
 
 - __CV:__ https://katdevlin.github.io/cv/
 
-- __Twitter:__ @kat_devlin
+- __Twitter:__ @kat_devlin[https://twitter.com/kat_devlin]
 
 - __Github:__ https://github.com/KatDevlin
 
