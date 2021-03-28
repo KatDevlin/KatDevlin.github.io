@@ -267,76 +267,28 @@ $(document).ready(function () {
 </div>
 
 
-<p>Here is a sampling of my data projects, both from my academic coursework and personal side projects. All project repos can be found on my GitHub page, <a href="https://github.com/KatDevlin" class="uri">https://github.com/KatDevlin</a>. Note: some of the projects contain Chinese metadata. That’s because my computer settings are in Chinese. Shouldn’t affect anything else.</p>
-<div id="predicting-survival-on-the-titanic-with-r" class="section level2">
-<h2><a href="https://katdevlin.github.io/Titanic_predict/">Predicting Survival on the Titanic with R</a></h2>
+<p>Here is a sampling of my data projects, some completed through work and others as side experiments. Repos are either on my personal page or the Pew Research Center Github. Any side projects are my own and do not reflect research interests of the Pew Research Center.</p>
+<div id="exploring-the-link-between-european-political-parties-ideology-and-their-popularity-on-twitter" class="section level2">
+<h2><a href="https://medium.com/pew-research-center-decoded/exploring-the-link-between-european-political-parties-ideology-and-their-popularity-on-twitter-1db4767cb8e3">Exploring the link between European political parties’ ideology and their popularity on Twitter</a></h2>
 <ul>
-<li>A project I submitted to <a href="https://www.kaggle.com/c/titanic">Kaggle</a> using binary classification to predict survival outcomes for Titanic passengers.</li>
-<li>With a combination of logistic regression and k-nearest neighbors, I was able to predict survival rates with 78% accuracy.</li>
+<li>We manually collected the Twitter account handles of European political parties, then used the Twitter API to obtain account information for each.</li>
+<li>Then, we combined social media metrics with survey data related to party ideology. Using a random effects model, we predict whether more ideologically “extreme” parties have more Twitter followers.</li>
+<li>I presented this data at the 2019 AAPOR conference. It’s now published on Pew Research Center’s Medium site.</li>
 </ul>
 </div>
-<div id="data-cleaning-and-merging-in-r" class="section level2">
-<h2><a href="https://katdevlin.github.io/Multivar_FinalProject/">Data Cleaning and Merging in R</a></h2>
+<div id="how-quantitative-methods-can-supplement-a-qualitative-approach-when-working-with-focus-groups" class="section level2">
+<h2><a href="https://medium.com/pew-research-center-decoded/when-working-with-focus-groups-quantitative-methods-can-help-6ad39475ae5f">How quantitative methods can supplement a qualitative approach when working with focus groups</a></h2>
 <ul>
-<li>This is the first half of my semester-long Multivariate Statistics course final project, focused on obtaining data from several sources, cleaning the data and merging everything into a user-friendly dataset for further analysis</li>
-<li>Data includes survey data from the Pew Research Center’s Global Attitudes Project and economic indicators from the World Bank’s WDI library</li>
+<li>After conducting 26 focus groups in the U.S. and UK, we wondered if we could use quantitative methods to more effectively analyze all of the transcripts.</li>
+<li>I used the <code>tidytext</code> package for basic text analysis, the <code>stm</code> package to run structural topic models that compared topic prevalence by country and the <code>tidymodels</code> and <code>recipes</code> packages for a text-based classification model for topic prediction.</li>
 </ul>
 </div>
-<div id="writing-a-function-in-r" class="section level2">
-<h2><a href="https://katdevlin.github.io/InverseMatrixFunction/">Writing a Function in R</a></h2>
+<div id="analyzing-international-survey-data-with-the-pewmethods-r-package" class="section level2">
+<h2><a href="https://medium.com/pew-research-center-decoded/analyzing-international-survey-data-with-the-pewmethods-r-package-3b0b21cba607">Analyzing international survey data with the pewmethods R package</a></h2>
 <ul>
-<li>An RMardown project from Coursera’s <a href="https://www.coursera.org/learn/r-programming">R Programming</a> course to calculate inverse matrices</li>
-<li>Function takes a user-provided square matrix and will either calculate the inverse or retrieve the already-calculated inverse from the cache</li>
-</ul>
-</div>
-<div id="prediction-modeling-in-r" class="section level2">
-<h2><a href="https://katdevlin.github.io/predict_2000election/">Prediction Modeling in R</a></h2>
-<ul>
-<li>An RMarkdown project for a graduate data analysis/stats course</li>
-<li>Data transformations, linear models and some predictions looking at county voting patterns in Florida for the 2000 presidential election</li>
-</ul>
-</div>
-<div id="cluster-analysis-in-r" class="section level2">
-<h2><a href="https://katdevlin.github.io/ClusterAnalysis_colleges/">Cluster Analysis in R</a></h2>
-<ul>
-<li>An RMarkdown project for my graduate multivariate statistics course, examining various metrics of American universities</li>
-<li>Methods include cluster analysis with various distance measures and k-means</li>
-</ul>
-</div>
-<div id="web-scrape-in-r" class="section level2">
-<h2><a href="https://katdevlin.github.io/housing_scrape/">Web Scrape in R</a></h2>
-<ul>
-<li>An RMarkdown homework assignment looking at a New Haven property database that I’ve rejiggered with updated data and code</li>
-<li>In addition to the scrape, I use a for loop and gsub/grep to create a clean .csv file that can be used for further analysis</li>
-<li>The original database, in all its clunky glory, can be found at: <a href="http://gis.vgsi.com/newhavenct/" class="uri">http://gis.vgsi.com/newhavenct/</a></li>
-</ul>
-</div>
-<div id="statistical-analysis-in-r" class="section level2">
-<h2><a href="https://katdevlin.github.io/housing_analysis/">Statistical Analysis in R</a></h2>
-<ul>
-<li>Another RMarkdown homework assignment, this time performing statistical analyses on the New Haven housing data</li>
-<li>Not quite the same dataset as I’ve scraped above; instead more focus on modeling and working with different types of variables to predict housing assessment values</li>
-</ul>
-</div>
-<div id="data-analysis-in-r" class="section level2">
-<h2><a href="https://katdevlin.github.io/OlympicDives/">Data Analysis in R</a></h2>
-<ul>
-<li>An RMarkdown compilation of homework assignments looking at scores from the 2000 Olympics’ diving competition</li>
-<li>Paired data visualizations with actual statistical analysis to backup hunches from the graphs</li>
-</ul>
-</div>
-<div id="k-nearest-neighbors-in-r" class="section level2">
-<h2><a href="https://katdevlin.github.io/k_nearest_rivers/">K Nearest Neighbors in R</a></h2>
-<ul>
-<li>An RMarkdown project using linear models and k-nearest neighbors to impute missing data on river CO2 emissions data</li>
-<li>This code also includes an example of anova, predict and a loop or two.</li>
-</ul>
-</div>
-<div id="principal-components-analysis-in-r" class="section level2">
-<h2><a href="https://katdevlin.github.io/PCA_cars/">Principal Components Analysis in R</a></h2>
-<ul>
-<li>An RMarkdown project using PCA to analyze the built-in R dataset, mtcars</li>
-<li>Some nice visualizations, including a scree plot, dendrogram and a ggplot2 graph of the first two principal components</li>
+<li>Pew Research Center’s methods team released a package for survey analysis, <code>pewmethods</code></li>
+<li>In this post, I demonstrate the package’s capabilities for analyzing multi-country, weighted survey data with complex designs</li>
+<li>Additionally, I show two dataxiz examples with survey data using <code>ggplot</code> and <code>rworldmap</code></li>
 </ul>
 </div>
 

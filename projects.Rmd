@@ -2,55 +2,21 @@
 title: "Projects"
 ---
 
-Here is a sampling of my data projects, both from my academic coursework and personal side projects. All project repos can be found on my GitHub page, https://github.com/KatDevlin. Note: some of the projects contain Chinese metadata. That's because my computer settings are in Chinese. Shouldn't affect anything else.
+Here is a sampling of my data projects, some completed through work and others as side experiments. Repos are either on my personal page or the Pew Research Center Github. Any side projects are my own and do not reflect research interests of the Pew Research Center.
 
-## [Predicting Survival on the Titanic with R](https://katdevlin.github.io/Titanic_predict/)
+## [Exploring the link between European political parties’ ideology and their popularity on Twitter](https://medium.com/pew-research-center-decoded/exploring-the-link-between-european-political-parties-ideology-and-their-popularity-on-twitter-1db4767cb8e3)
 
-- A project I submitted to [Kaggle](https://www.kaggle.com/c/titanic) using binary classification to predict survival outcomes for Titanic passengers.
-- With a combination of logistic regression and k-nearest neighbors, I was able to predict survival rates with 78% accuracy.
+- We manually collected the Twitter account handles of European political parties, then used the Twitter API to obtain account information for each.
+- Then, we combined social media metrics with survey data related to party ideology. Using a random effects model, we predict whether more ideologically "extreme" parties have more Twitter followers. 
+- I presented this data at the 2019 AAPOR conference. It's now published on Pew Research Center's Medium site.
 
-## [Data Cleaning and Merging in R](https://katdevlin.github.io/Multivar_FinalProject/)
+## [How quantitative methods can supplement a qualitative approach when working with focus groups](https://medium.com/pew-research-center-decoded/when-working-with-focus-groups-quantitative-methods-can-help-6ad39475ae5f)
 
-- This is the first half of my semester-long Multivariate Statistics course final project, focused on obtaining data from several sources, cleaning the data and merging everything into a user-friendly dataset for further analysis
-- Data includes survey data from the Pew Research Center's Global Attitudes Project and economic indicators from the World Bank's WDI library
+- After conducting 26 focus groups in the U.S. and UK, we wondered if we could use quantitative methods to more effectively analyze all of the transcripts.
+- I used the `tidytext` package for basic text analysis, the `stm` package to run structural topic models that compared topic prevalence by country and the `tidymodels` and `recipes` packages for a text-based classification model for topic prediction.
 
-## [Writing a Function in R](https://katdevlin.github.io/InverseMatrixFunction/)
+## [Analyzing international survey data with the pewmethods R package](https://medium.com/pew-research-center-decoded/analyzing-international-survey-data-with-the-pewmethods-r-package-3b0b21cba607)
 
-- An RMardown project from Coursera's [R Programming](https://www.coursera.org/learn/r-programming) course to calculate inverse matrices
-- Function takes a user-provided square matrix and will either calculate the inverse or retrieve the already-calculated inverse from the cache
-
-## [Prediction Modeling in R](https://katdevlin.github.io/predict_2000election/)
-
-- An RMarkdown project for a graduate data analysis/stats course
-- Data transformations, linear models and some predictions looking at county voting patterns in Florida for the 2000 presidential election
-
-## [Cluster Analysis in R](https://katdevlin.github.io/ClusterAnalysis_colleges/)
-
-- An RMarkdown project for my graduate multivariate statistics course, examining various metrics of American universities
-- Methods include cluster analysis with various distance measures and k-means
-
-## [Web Scrape in R](https://katdevlin.github.io/housing_scrape/)
-
-- An RMarkdown homework assignment looking at a New Haven property database that I've rejiggered with updated data and code
-- In addition to the scrape, I use a for loop and gsub/grep to create a clean .csv file that can be used for further analysis 
-- The original database, in all its clunky glory, can be found at: http://gis.vgsi.com/newhavenct/
-
-## [Statistical Analysis in R](https://katdevlin.github.io/housing_analysis/)
-
-- Another RMarkdown homework assignment, this time performing statistical analyses on the New Haven housing data
-- Not quite the same dataset as I've scraped above; instead more focus on modeling and working with different types of variables to predict housing assessment values
-
-## [Data Analysis in R](https://katdevlin.github.io/OlympicDives/)
-
-- An RMarkdown compilation of homework assignments looking at scores from the 2000 Olympics' diving competition
-- Paired data visualizations with actual statistical analysis to backup hunches from the graphs
-
-## [K Nearest Neighbors in R](https://katdevlin.github.io/k_nearest_rivers/)
-
-- An RMarkdown project using linear models and k-nearest neighbors to impute missing data on river CO2 emissions data
-- This code also includes an example of anova, predict and a loop or two.
-
-## [Principal Components Analysis in R](https://katdevlin.github.io/PCA_cars/)
-
-- An RMarkdown project using PCA to analyze the built-in R dataset, mtcars
-- Some nice visualizations, including  a scree plot, dendrogram and a ggplot2 graph of the first two principal components
+- Pew Research Center's methods team released a package for survey analysis, `pewmethods`
+- In this post, I demonstrate the package's capabilities for analyzing multi-country, weighted survey data with complex designs
+- Additionally, I show two dataxiz examples with survey data using `ggplot` and `rworldmap`
