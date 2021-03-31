@@ -1,8 +1,9 @@
 ---
 title: "Kat's Website"
+
 ---
 
-Hello, World! And welcome to my website. Most of the excitement is under the 'Projects' tab, but here are some other helpful links:
+A quick bit about me and some hopefully helpful links:
 
 - __Email:__ katdevlin26@gmail.com  
 
@@ -18,7 +19,9 @@ Hello, World! And welcome to my website. Most of the excitement is under the 'Pr
 
 - __Quant projects for Pew on Medium:__ https://medium.com/@kat_devlin 
 
-
-![](thumb_IMG_0623_1024.jpg)
+```{r website, echo=FALSE, out.width = '100%'}
+knitr::include_graphics("devlin_bw.jpg", error = FALSE)
+```
+![](devlin_bw.jpg)
 
 
