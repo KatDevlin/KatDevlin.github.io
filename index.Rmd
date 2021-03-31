@@ -2,14 +2,16 @@
 title: "Kat Devlin"
 
 ---
-<script>
-   $(document).ready(function() {
-     $head = $('#header');
-     $head.prepend('<img src=\"devlin_bw.jpeg\" style=\"float: right;width: 300px;\"/>')
-   });
-</script>
+```{r, echo=FALSE, out.width='15%', out.extra='style="float:right; padding:10px"'}
+knitr::include_graphics("devlin_bw.jpeg")
+```
 
-A quick bit about me and some hopefully helpful links:
+
+I am a research associate at the Pew Research Center’s [Global Attitudes Project](https://www.pewresearch.org/global/), where I specialize in international public opinion and quantitative research methods. Links to my writing are below.  
+
+Previously, I earned my master’s degree from Yale University’s [Jackson Institute for Global Affairs](https://jackson.yale.edu/), with concentrations in quantitative research and Chinese studies. I also served as a Fulbright grantee in Malaysia. 
+
+Here are some other hopefully helpful links:
 
 - __Email:__ katdevlin26@gmail.com  
 
