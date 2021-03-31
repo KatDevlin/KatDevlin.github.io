@@ -1,7 +1,13 @@
 ---
-title: "Kat's Website"
+title: "Kat Devlin"
 
 ---
+<script>
+   $(document).ready(function() {
+     $head = $('#header');
+     $head.prepend('<img src=\"devlin_bw.jpeg\" style=\"float: right;width: 300px;\"/>')
+   });
+</script>
 
 A quick bit about me and some hopefully helpful links:
 
@@ -18,10 +24,4 @@ A quick bit about me and some hopefully helpful links:
 - __Writing for Pew:__ https://www.pewresearch.org/staff/kat-devlin/
 
 - __Quant projects for Pew on Medium:__ https://medium.com/@kat_devlin 
-
-```{r website, echo=FALSE, out.width = '100%'}
-knitr::include_graphics("devlin_bw.jpg", error = FALSE)
-```
-![](devlin_bw.jpg)
-
 
